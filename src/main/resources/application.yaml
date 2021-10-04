@@ -1,0 +1,5 @@
+mongo-client-properties:
+  connection-string: "mongodb+srv://m001student:m001password@sandbox.ltlx4.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+
+mongo-dao-properties:
+  database: "sample_training"
